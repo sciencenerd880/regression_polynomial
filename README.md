@@ -3,7 +3,7 @@
 ## Objective
 This project explores the relationship between model complexity and generalization performance, using polynomial regression models of varying degrees. It involves feature engineering, model training, and performance analysis using R2 scores.
 <div style="text-align: center;">
-    img src="/assets/img/overview.png" width="350" height="300">
+    <img src="/assets/img/overview.png" width="350" height="300">
 </div>
 
 ## Key Learnings
